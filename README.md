@@ -1,7 +1,7 @@
 # Distilled Waters @ 2023 Edition
 Before 2023 ends, Distilled Waters is going into full production.<br>DW @ 2023, created by "ndsboy87"<br>DWSoftware @ 2023, credited)
 ## Credited:
-![Distilled Waters GitHub Authentication comes from here](https://gist.github.com/asika32764/b204ff4799d577fd4eef)<br>![Distilled Waters developer/creator](https://github.com/ndsboy87)
+[Distilled Waters GitHub Authentication comes from here](https://gist.github.com/asika32764/b204ff4799d577fd4eef)<br>[Distilled Waters developer/creator](https://github.com/ndsboy87)
 ## License
 ```txt
 MIT License
